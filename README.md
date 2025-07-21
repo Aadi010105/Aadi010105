@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Aadi010105/Aadi010105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,9 +25,11 @@ Here are some ideas to get you started:
 - 💻 **Languages**: Python, Java, C++, JavaScript  
 - ⚙️ **Frameworks**: Laravel, Spring Boot, React.js  
 - 📊 **ML/DL**: TensorFlow, Keras, PyTorch, Scikit-learn  
-- ☁️ **Cloud & DevOps**: AWS, Docker, GitHub Actions  
+- ☁️ **Cloud & DevOps**: AWS, GitHub Actions  
 - 🛠️ **Databases**: MySQL, PostgreSQL  
-- 🎨 **Frontend**: HTML, CSS, Bootstrap, Blade, Tailwind  
+- 🎨 **Frontend**: HTML, CSS, Bootstrap
+- 🎨 **Backend**: SpringBoot,REST APIs,HibernateORM
+ 
 
 ---
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 ## 🏅 Achievements & Highlights
 - 🥇 **Dean’s List Academic Excellence Award** – Highest GPA (Semester 3)  
 - 🌱 Learning Cloud-Native Development & Advanced Deep Learning  
-- 🧠 Built projects integrating **Cognito Auth**, **Lead Scoring ML**, and **Diabetic Retinopathy Detection**
 
 ---
 
