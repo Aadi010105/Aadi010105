@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aadi010105)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditiya-jain-758707292/)  
 📩 Email: [aaditiya.229310427@muj.manipal.edu](mailto:aaditiya.229310427@muj.manipal.edu)
 
 ---
